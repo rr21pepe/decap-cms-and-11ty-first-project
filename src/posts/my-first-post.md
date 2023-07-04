@@ -1,15 +1,16 @@
 ---
-title: This is my first post
+title: This is my first edited post
 description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
+        activity to beta test. Override the digital divide with additional
+        clickthroughs from DevOps.
 author: Surjith S M
 date: 2020-09-01
 tags:
-  - left
-  - center
-  - right
+        - left
+        - center
+        - right
 ---
+
 # This is a Heading h1
 
 ## This is a Heading h2
@@ -18,23 +19,23 @@ tags:
 
 ## Emphasis
 
-*This text will be italic*\
-*This will also be italic*
+_This text will be italic_\
+_This will also be italic_
 
 **This text will be bold**\
 **This will also be bold**
 
-*You **can** combine them*
+_You **can** combine them_
 
 ## Lists
 
 ### Unordered
 
-* Item 1
-* Item 2
+- Item 1
+- Item 2
 
-  * Item 2a
-  * Item 2b
+     - Item 2a
+     - Item 2b
 
 ### Ordered
 
@@ -42,8 +43,8 @@ tags:
 2. Item 2
 3. Item 3
 
-   1. Item 3a
-   2. Item 3b
+      1. Item 3a
+      2. Item 3b
 
 ## Links
 
