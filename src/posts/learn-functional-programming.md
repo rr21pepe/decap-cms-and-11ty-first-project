@@ -6,6 +6,8 @@ date: 2023-07-05T08:42:26.804Z
 tags:
   - Tags
 ---
+<https://youtu.be/BMUiFMZr7vk>
+
 # F﻿unctional programming
 
 ```javascript
