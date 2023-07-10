@@ -14,8 +14,8 @@ code:
 <details>
   <summary>Textualize tutorial</summary>
 
-  C﻿heck this out
+C﻿heck this out
 
-	<iframe width="560" height="315" src=https://www.youtube.com/embed/xtgNjiLhGjY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src=https://www.youtube.com/embed/xtgNjiLhGjY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
